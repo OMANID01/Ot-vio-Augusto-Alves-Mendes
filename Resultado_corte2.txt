@@ -1,0 +1,140 @@
+------------------------------------------------------------------------
+Quadro da analise de variancia ALT
+------------------------------------------------------------------------
+           GL     SQ      QM     Fc    Pr>Fc
+Tratamento  8 1825.7 228.218 2.5785 0.045342
+Residuo    18 1593.2  88.509                
+Total      26 3418.9                        
+------------------------------------------------------------------------
+CV = 10.73 %
+
+------------------------------------------------------------------------
+Teste de normalidade dos residuos ( Shapiro-Wilk ) 
+Valor-p:  0.3012725 
+De acordo com o teste de Shapiro-Wilk a 5% de significancia, os residuos podem ser considerados normais.
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Teste de homogeneidade de variancia 
+valor-p:  0.7381095 
+De acordo com o teste de bartlett a 5% de significancia, as variancias podem ser consideradas homogeneas.
+------------------------------------------------------------------------
+
+Teste de Tukey
+------------------------------------------------------------------------
+Grupos Tratamentos Medias
+a 	 T6 	 102.1667 
+a 	 T7 	 97.66667 
+a 	 T9 	 93.83333 
+a 	 T2 	 91.33333 
+a 	 T8 	 82.33333 
+a 	 T5 	 81.5 
+a 	 T1 	 81.33333 
+a 	 T3 	 80.16667 
+a 	 T4 	 78.5 
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Quadro da analise de variancia MSA
+------------------------------------------------------------------------
+           GL      SQ     QM      Fc   Pr>Fc
+Tratamento  8  24.841 3.1052 0.73445 0.66085
+Residuo    18  76.102 4.2279                
+Total      26 100.943                       
+------------------------------------------------------------------------
+CV = 13.52 %
+
+------------------------------------------------------------------------
+Teste de normalidade dos residuos ( Shapiro-Wilk ) 
+Valor-p:  0.1848798 
+De acordo com o teste de Shapiro-Wilk a 5% de significancia, os residuos podem ser considerados normais.
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Teste de homogeneidade de variancia 
+valor-p:  0.5620895 
+De acordo com o teste de bartlett a 5% de significancia, as variancias podem ser consideradas homogeneas.
+------------------------------------------------------------------------
+
+De acordo com o teste F, as medias nao podem ser consideradas diferentes.
+------------------------------------------------------------------------
+  Niveis   Medias
+1     T1 14.06333
+2     T2 15.53667
+3     T3 13.87667
+4     T4 16.37333
+5     T5 15.63333
+6     T6 14.77000
+7     T7 16.58333
+8     T8 15.88000
+9     T9 14.20000
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Quadro da analise de variancia PSA
+------------------------------------------------------------------------
+           GL       SQ      QM     Fc      Pr>Fc
+Tratamento  8 62484365 7810546 18.668 3.1249e-07
+Residuo    18  7530957  418387                  
+Total      26 70015322                          
+------------------------------------------------------------------------
+CV = 21.93 %
+
+------------------------------------------------------------------------
+Teste de normalidade dos residuos ( Shapiro-Wilk ) 
+Valor-p:  0.7355888 
+De acordo com o teste de Shapiro-Wilk a 5% de significancia, os residuos podem ser considerados normais.
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Teste de homogeneidade de variancia 
+valor-p:  0.2296783 
+De acordo com o teste de bartlett a 5% de significancia, as variancias podem ser consideradas homogeneas.
+------------------------------------------------------------------------
+
+Teste de Tukey
+------------------------------------------------------------------------
+Grupos Tratamentos Medias
+a 	 T7 	 5108.287 
+ab 	 T6 	 4796.153 
+ab 	 T2 	 4751.33 
+ bc 	 T3 	 3109.857 
+  cd 	 T1 	 2637.333 
+  cd 	 T9 	 2138.377 
+  cd 	 T8 	 2114.873 
+   d 	 T4 	 953.9933 
+   d 	 T5 	 936.7133 
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Quadro da analise de variancia PMST
+------------------------------------------------------------------------
+           GL       SQ      QM    Fc      Pr>Fc
+Tratamento  8 34949338 4368667 9.269 5.1054e-05
+Residuo    18  8483746  471319                 
+Total      26 43433084                         
+------------------------------------------------------------------------
+CV = 16.56 %
+
+------------------------------------------------------------------------
+Teste de normalidade dos residuos ( Shapiro-Wilk ) 
+Valor-p:  0.7960034 
+De acordo com o teste de Shapiro-Wilk a 5% de significancia, os residuos podem ser considerados normais.
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+Teste de homogeneidade de variancia 
+valor-p:  0.5939702 
+De acordo com o teste de bartlett a 5% de significancia, as variancias podem ser consideradas homogeneas.
+------------------------------------------------------------------------
+
+Teste de Tukey
+------------------------------------------------------------------------
+Grupos Tratamentos Medias
+a 	 T7 	 6028.63 
+a 	 T6 	 5569.18 
+ab 	 T2 	 4751.33 
+abc 	 T9 	 4577.823 
+abc 	 T8 	 4379.653 
+ bc 	 T4 	 3284.19 
+ bc 	 T3 	 3109.857 
+ bc 	 T5 	 2971.193 
+  c 	 T1 	 2637.333 
+------------------------------------------------------------------------

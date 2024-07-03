@@ -21,7 +21,5 @@ library(ExpDes.pt)
 #RODAR OS DADOS
 dic(dados$cv,dados$ALT,mcomp="tukey")
 dic(dados$cv,dados$MSA,mcomp="tukey")
-dic(dados$cv,dados$MSCP,mcomp="tukey")
 dic(dados$cv,dados$PSA,mcomp="tukey")
-dic(dados$cv,dados$PSCP,mcomp="tukey")
 dic(dados$cv,dados$PMST,mcomp="tukey")
